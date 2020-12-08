@@ -4,3 +4,5 @@
 -	The tool can extract a skeleton from a human character mesh in any pose if the rest pose of the same character is provided.
 -	The generated skeleton works seamlessly with the newly introduced [KineFX](https://www.sidefx.com/docs/houdini/character/kinefx/index.html) workflow inside [Houdini 18.5](https://youtu.be/mcDm_irEKb0?t=798) or later.
 -	The skeletal structure is compatible with the CMU Graphics Lab Motion Capture [Database](http://mocap.cs.cmu.edu).
+
+To use these tools, simply copy the hda files to your local otls directory.
