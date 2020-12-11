@@ -5,4 +5,6 @@ As part of the EU [SAUCE](https://www.sauceproject.eu/) Project and in collabora
 -	The generated skeleton works seamlessly with the newly introduced [KineFX](https://www.sidefx.com/docs/houdini/character/kinefx/index.html) workflow inside [Houdini 18.5](https://youtu.be/mcDm_irEKb0?t=798) or later.
 -	The skeletal structure is also compatible with the CMU Graphics Lab Motion Capture [Database](http://mocap.cs.cmu.edu).
 
-To use these tools, simply copy the hda files to your local otls directory.
+To use these tools, simply copy the hda files to your local otls directory. To avoid any license issue, you may also download the tools from Orbolt.
+https://www.orbolt.com/asset/SAUCE::sauce_skeleton_from_rest
+https://www.orbolt.com/asset/SAUCE::sauce_skeleton_from_pose
